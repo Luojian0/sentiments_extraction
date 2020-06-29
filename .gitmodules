@@ -1,0 +1,3 @@
+[submodule "BERTweet"]
+	path = BERTweet
+	url = ./Documents/data_mining_competition/sentiments_extraction/BERTweet
